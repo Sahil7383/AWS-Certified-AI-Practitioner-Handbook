@@ -1,1 +1,0 @@
-# AWS-Certified-AI-Practitioner-Handbook
